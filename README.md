@@ -17,6 +17,13 @@ Your mission, should you choose to accept it, is to determine which microbiome s
 
 Which subject is the C. Diff patient? Which subject is the Healthy US adult? Follow the clues to find the answers!
 
+## Helpful hints
+
+* Open the raw DNA sequence files first. Does anyone have C. diff?
+* Use the species plots to find key species mentioned in the reference articles below.
+* Use the "beta diversity" plots to find which samples are most similar to one another.
+* Hint: Antibiotics tend to reduce diversity and increase Gammaproteobacteria.
+
 ## Raw data files
 These are the raw DNA sequences from each subject in the mystery.
 
@@ -34,11 +41,11 @@ These are the raw DNA sequences from each subject in the mystery.
 * [Subject 12](DNA_files/subject_12.fna)
 
 
-## Beta diversity plot
-Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemystery/bray_curtis_emperor_pcoa_plot/index.html) to visualize overall microbiome variation from subject to subject.
-
 ## Species plot
 Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemystery/taxaplots/bar_charts.html) to visualize the mixture of species in each sample.
+
+## Beta diversity plot
+Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemystery/bray_curtis_emperor_pcoa_plot/index.html) to visualize overall microbiome variation from subject to subject.
 
 ## Reference articles
 These reference articles may provide clues to the identities of some of the subjects:
