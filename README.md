@@ -33,7 +33,7 @@ These reference articles may provide clues to the identities of some of the subj
 
 ## Answer sheet
 
-Fill out [this answer sheet] (https://s3.us-east-2.amazonaws.com/knights-lab/public/microbiome_mystery_answers.xlsx).
+Fill out [this answer sheet](https://s3.us-east-2.amazonaws.com/knights-lab/public/microbiome_mystery_answers.xlsx).
 
 ## Raw data files
 These are the raw DNA sequences from each subject in the mystery.
