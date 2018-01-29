@@ -24,6 +24,14 @@ Which subject is the C. Diff patient? Which subject is the Healthy US adult? Fol
 * Use the "beta diversity" plots to find which samples are most similar to one another.
 * Hint: Antibiotics tend to reduce diversity and increase Gammaproteobacteria.
 
+## Reference articles
+These reference articles may provide clues to the identities of some of the subjects:
+
+* [Dominguez-Bello, _et al._, _PNAS_ (2010)](references/Dominguez_Bello_PNAS_2010.pdf)
+* [Gevers, _et al._, _Cell Host and Microbe_ (2014)](references/Gevers_Cell_Host_Microbe_2014.pdf)
+* [David, _et al._, _Nature_ (2014)](references/David_Nature_2014.pdf)
+
+
 ## Raw data files
 These are the raw DNA sequences from each subject in the mystery.
 
@@ -46,14 +54,6 @@ Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemyst
 
 ## Beta diversity plot
 Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemystery/bray_curtis_emperor_pcoa_plot/index.html) to visualize overall microbiome variation from subject to subject.
-
-## Reference articles
-These reference articles may provide clues to the identities of some of the subjects:
-
-* [Dominguez-Bello, _et al._, _PNAS_ (2010)](references/Dominguez_Bello_PNAS_2010.pdf)
-* [Gevers, _et al._, _Cell Host and Microbe_ (2014)](references/Gevers_Cell_Host_Microbe_2014.pdf)
-* [David, _et al._, _Nature_ (2014)](references/David_Nature_2014.pdf)
-
 
 
 
