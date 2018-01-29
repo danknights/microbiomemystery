@@ -31,6 +31,9 @@ These reference articles may provide clues to the identities of some of the subj
 * [Gevers, _et al._, _Cell Host and Microbe_ (2014)](references/Gevers_Cell_Host_Microbe_2014.pdf)
 * [David, _et al._, _Nature_ (2014)](references/David_Nature_2014.pdf)
 
+## Answer sheet
+
+Fill out [this answer sheet] (https://s3.us-east-2.amazonaws.com/knights-lab/public/microbiome_mystery_answers.xlsx).
 
 ## Raw data files
 These are the raw DNA sequences from each subject in the mystery.
