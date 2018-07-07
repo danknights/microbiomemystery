@@ -52,7 +52,7 @@ These are the raw DNA sequences from each subject in the mystery.
 * [Subject 12](DNA_files/subject_12.fna)
 
 
-## Species plot
+## Genus plot
 Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemystery/taxaplots/bar_charts.html) to visualize the mixture of species in each sample.
 
 ## Beta diversity plot
