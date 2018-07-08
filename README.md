@@ -53,7 +53,7 @@ These are the raw DNA sequences from each subject in the mystery.
 
 
 ## Genus plot
-Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemystery/taxaplots/bar_charts.html) to visualize the mixture of genus in each sample.
+Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemystery/taxaplots/bar_charts.html) to visualize the mixture of genera in each sample.
 
 ## Beta diversity plot
 Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemystery/bray_curtis_emperor_pcoa_plot/index.html) to visualize overall microbiome variation from subject to subject.
