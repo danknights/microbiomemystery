@@ -20,7 +20,7 @@ Which subject is the C. Diff patient? Which subject is the Healthy US adult? Fol
 ## Helpful hints
 
 * Open the raw DNA sequence files first. Does anyone have C. diff?
-* Use the species plots to find key species mentioned in the reference articles below.
+* Use the genus plots to find key genera mentioned in the reference articles below.
 * Use the "beta diversity" plots to find which samples are most similar to one another.
 * Hint: Antibiotics tend to reduce diversity and increase Gammaproteobacteria.
 
@@ -53,7 +53,7 @@ These are the raw DNA sequences from each subject in the mystery.
 
 
 ## Genus plot
-Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemystery/taxaplots/bar_charts.html) to visualize the mixture of species in each sample.
+Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemystery/taxaplots/bar_charts.html) to visualize the mixture of genus in each sample.
 
 ## Beta diversity plot
 Click [here](http://danknights.s3-website.us-east-2.amazonaws.com/microbiomemystery/bray_curtis_emperor_pcoa_plot/index.html) to visualize overall microbiome variation from subject to subject.
