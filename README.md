@@ -8,8 +8,8 @@ Your mission, should you choose to accept it, is to determine which microbiome s
 * Rural Malawian
 * Swabbed your mouth by mistake
 * Just took antibiotics
-* Joe yesterday
-* Joe today
+* A healhy US subject on Monday
+* The same healhy US subject on Tuesday
 * Crohn's disease
 * Healthy US adult
 * Healthy Rural Amazonian
@@ -33,7 +33,7 @@ These reference articles may provide clues to the identities of some of the subj
 
 ## Answer sheet
 
-Fill out [this answer sheet](https://s3.us-east-2.amazonaws.com/knights-lab/public/microbiome_mystery_answers.xlsx) or make your own.
+Fill out [this answer sheet](https://github.com/danknights/microbiomemystery/raw/master/microbiome_mystery_answers.xlsx) or make your own.
 
 ## Raw data files
 These are the raw DNA sequences from each subject in the mystery.
