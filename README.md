@@ -33,7 +33,7 @@ These reference articles may provide clues to the identities of some of the subj
 
 ## Answer sheet
 
-Fill out [this answer sheet](https://github.com/danknights/microbiomemystery/raw/master/microbiome_mystery_answers.xlsx) or make your own.
+Fill out the answers(https://github.com/danknights/microbiomemystery/raw/master/microbiome_mystery_answers.xlsx) or make your own. This is just a table showing which sample ID came from which source.
 
 ## Raw data files
 These are the raw DNA sequences from each subject in the mystery.
